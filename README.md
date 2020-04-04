@@ -1,6 +1,6 @@
 # Ropa the Clumsy Phantom Thief
 변장을 하여 적을 속이거나 적의 시야를 피해 돌아다니며 맵의 보석을 먹고 정해진 위치로 이동하여 탈출하는 퍼즐게임이다.
-
+  
 ## 메인 화면
 ![image](https://user-images.githubusercontent.com/62214506/78427552-fb41c500-76ae-11ea-8806-2c5229fb6c6b.png)
 
